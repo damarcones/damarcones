@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Damarcones Porto
+# Damarcones Pôrto
 
 ## Sobre Mim
 
-Tenho desenvoltura com trabalhos em equipe multidisciplinar, gerência e participação em projetos. Busco constantemente expandir meus conhecimentos em novas técnicas e tecnologias. Possuo empenho em cumprir metas e prazos, com dedicação na solução de problemas.
+Olá, meu nome é Damarcones Porto tenho 29 anos, sou engenheiro de software formado pela universidade de Brasília, anteriormente possuía a diplomação de técnico em informática. Faço parte desde Agosto de 2021 do corpo de pesquisadores do PISAC, o Parque de Inovação e Sustentabilidade do Ambiente Construído, e desde o início de 2024 ocupo o cargo de pesquisador júnior 1, exerci as atividades de levantamentos de dados para a geração de indicadores sintéticos, utilizando Python para realizar a mineração de informações do portal da transparência do governo federal, atualmente sou um dos responsáveis pelo desenvolvimento de uma aplicação web voltada para o gerenciamento de canteiros de obras, utilizando java e microsserviços. Simultaneamente trabalhei como instrutor de Java para duas turmas do SENAI de Taguatinga, aqui no Distrito Federal, considero que essa tenha sido uma das melhores experiências que já vivi, foi um prazer enorme a oportunidade de ter conseguido passar o máximo possível do meu conhecimento a diversas outras pessoas, espero ter outras oportunidades como essa em um futuro próximo.
 
 ### Conecte-se comigo
 
